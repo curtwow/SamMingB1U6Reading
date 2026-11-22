@@ -1,0 +1,182 @@
+{
+  "talent": {
+    "audio": "audio/words/word-01.mp3",
+    "image": "word-images/word-01.svg",
+    "caption": "有天分的創作",
+    "memo": "字族：talented 是形容詞「有天分的」；a talent for + 名詞／V-ing 表示「……的天分」。"
+  },
+  "achieve": {
+    "audio": "audio/words/word-02.mp3",
+    "image": "word-images/word-02.svg",
+    "caption": "努力達成目標",
+    "memo": "字族：achieve（達成）→ achievement（成就）；注意 achievement 中保留 e。"
+  },
+  "opportunity": {
+    "audio": "audio/words/word-03.mp3",
+    "image": "word-images/word-03.svg",
+    "caption": "機會之門打開",
+    "memo": "搭配：an opportunity to + 原形動詞；複數將字尾 y 改為 ies：opportunities。"
+  },
+  "especially": {
+    "audio": "audio/words/word-04.mp3",
+    "image": "word-images/word-04.svg",
+    "caption": "特別指出一個",
+    "memo": "字族：especial「特別的」＋ -ly → especially「尤其」；special 也有「特別的」意思。"
+  },
+  "environment": {
+    "audio": "audio/words/word-05.mp3",
+    "image": "word-images/word-05.svg",
+    "caption": "人與周遭環境",
+    "memo": "字族：environment（環境）＋ -al → environmental（環境的）；-ment 常構成名詞。"
+  },
+  "minority": {
+    "audio": "audio/words/word-06.mp3",
+    "image": "word-images/word-06.svg",
+    "caption": "整體中的少數",
+    "memo": "字族：minor（較小的）→ minority（少數）；majority 是「多數」，注意兩字拼法。"
+  },
+  "adapt": {
+    "audio": "audio/words/word-07.mp3",
+    "image": "word-images/word-07.svg",
+    "caption": "因環境而調整",
+    "memo": "搭配：adapt to + 新環境；adaptation 為名詞「適應／改編」。"
+  },
+  "succeed": {
+    "audio": "audio/words/word-08.mp3",
+    "image": "word-images/word-08.svg",
+    "caption": "一步步抵達目標",
+    "memo": "字族：succeed（成功，動詞）→ success（成功，名詞）→ successful（成功的，形容詞）。"
+  },
+  "determined": {
+    "audio": "audio/words/word-09.mp3",
+    "image": "word-images/word-09.svg",
+    "caption": "下定決心朝目標前進",
+    "memo": "字族：determine（決定）→ determined（下定決心的）→ determination（決心）。"
+  },
+  "calculate": {
+    "audio": "audio/words/word-10.mp3",
+    "image": "word-images/word-10.svg",
+    "caption": "用數字進行計算",
+    "memo": "字族：calculate（計算）→ calculation（計算，名詞）→ calculator（計算機）。"
+  },
+  "despite": {
+    "audio": "audio/words/word-11.mp3",
+    "image": "word-images/word-11.svg",
+    "caption": "儘管下雨仍前進",
+    "memo": "句型記憶：despite + 名詞／V-ing；although 後面通常接完整子句。"
+  },
+  "contribution": {
+    "audio": "audio/words/word-12.mp3",
+    "image": "word-images/word-12.svg",
+    "caption": "一起付出有所貢獻",
+    "memo": "字族：contribute（貢獻）→ contribution（貢獻，名詞）；make a contribution to + 名詞／V-ing。"
+  },
+  "career": {
+    "audio": "audio/words/word-13.mp3",
+    "image": "word-images/word-13.svg",
+    "caption": "長期發展的職業生涯",
+    "memo": "career 是長期的職業生涯；job 常指一份具體工作。"
+  },
+  "attention": {
+    "audio": "audio/words/word-14.mp3",
+    "image": "word-images/word-14.svg",
+    "caption": "把注意力放在某事",
+    "memo": "常用搭配：pay attention to + 名詞／V-ing；attention 是不可數名詞。"
+  },
+  "recognize": {
+    "audio": "audio/words/word-15.mp3",
+    "image": "word-images/word-15.svg",
+    "caption": "看見並認出對方",
+    "memo": "字族：recognize（認出／肯定）→ recognition（辨認／認可）；注意 re- 不一定代表「再次」。"
+  },
+  "receive": {
+    "audio": "audio/words/word-16.mp3",
+    "image": "word-images/word-16.svg",
+    "caption": "收到一份包裹",
+    "memo": "搭配：receive something from someone「收到某人給的東西」；receive 強調收到，不必然代表接受。"
+  },
+  "honor": {
+    "audio": "audio/words/word-17.mp3",
+    "image": "word-images/word-17.svg",
+    "caption": "獲得榮譽或向人致敬",
+    "memo": "字族：honor 可作名詞「榮譽」或動詞「向……致敬」；honored 表示「感到榮幸的」。"
+  },
+  "encourage": {
+    "audio": "audio/words/word-18.mp3",
+    "image": "word-images/word-18.svg",
+    "caption": "用話語給人勇氣",
+    "memo": "字首 en- 常有「使成為」的意思；encourage 與 courage（勇氣）相關。encourage + 人 + to V。"
+  },
+  "field": {
+    "audio": "audio/words/word-19.mp3",
+    "image": "word-images/word-19.svg",
+    "caption": "專業領域與田地",
+    "memo": "一字多義：field 可以是「領域」，也可以是「田地」；in the field of science 是「在科學領域」。"
+  },
+  "effort": {
+    "audio": "audio/words/word-20.mp3",
+    "image": "word-images/word-20.svg",
+    "caption": "努力攀向目標",
+    "memo": "字族：effort（努力）＋ -less（沒有……的）→ effortless（不費力的）。"
+  },
+  "African-American": {
+    "audio": "audio/words/word-21.mp3",
+    "image": "word-images/word-21.svg",
+    "caption": "非洲血統與美國身分",
+    "memo": "African 指非洲的；American 指美國人或美國的。稱呼個人時宜尊重其自我認同。"
+  },
+  "West Virginia": {
+    "audio": "audio/words/word-22.mp3",
+    "image": "word-images/word-22.svg",
+    "caption": "美國東部的西維吉尼亞州",
+    "memo": "West 是「西方」；West Virginia 是一個州名，與另一個州 Virginia 不同。"
+  },
+  "NASA": {
+    "audio": "audio/words/word-23.mp3",
+    "image": "word-images/word-23.svg",
+    "caption": "探索地球與太空",
+    "memo": "NASA 是 National Aeronautics and Space Administration 的縮寫，可聯想太空任務與科學研究。"
+  },
+  "slavery": {
+    "audio": "audio/words/word-24.mp3",
+    "image": "word-images/word-24.svg",
+    "caption": "認識奴隸制度的歷史",
+    "memo": "字族：slave（奴隸）→ slavery（奴隸制度）；enslave 是「奴役」的動詞。"
+  },
+  "mathematician": {
+    "audio": "audio/words/word-25.mp3",
+    "image": "word-images/word-25.svg",
+    "caption": "研究與運用數學的人",
+    "memo": "mathematics（數學）與 mathematician（數學家）同字族；-ian 常見於表示人的字尾，如 musician。"
+  },
+  "flight path": {
+    "audio": "audio/words/word-26.mp3",
+    "image": "word-images/word-26.svg",
+    "caption": "太空船飛行的路線",
+    "memo": "組合字：flight（飛行）＋ path（路徑）＝ flight path（飛行路線）。"
+  },
+  "astronaut": {
+    "audio": "audio/words/word-27.mp3",
+    "image": "word-images/word-27.svg",
+    "caption": "受訓到太空執行任務的人",
+    "memo": "astro- 與星辰有關；-naut 與航行者有關，例如 aeronaut。astronaut 指太空人。"
+  },
+  "inferiority": {
+    "audio": "audio/words/word-28.mp3",
+    "image": "word-images/word-28.svg",
+    "caption": "認為自己較不如人的感覺",
+    "memo": "字族：inferior（較差的）→ inferiority（低等；自卑）；-ity 常形成表示狀態或性質的名詞。"
+  },
+  "Presidential Medal of Freedom": {
+    "audio": "audio/words/word-29.mp3",
+    "image": "word-images/word-29.svg",
+    "caption": "美國總統自由勳章",
+    "memo": "拆解名稱：presidential（總統的）＋ medal（勳章）＋ freedom（自由）。"
+  },
+  "frontier": {
+    "audio": "audio/words/word-30.mp3",
+    "image": "word-images/word-30.svg",
+    "caption": "探索未知知識的前沿",
+    "memo": "聯想：front（前方）可幫助記憶 frontier 的「前沿」；這是記憶聯想，並非完整字源解析。"
+  }
+}
